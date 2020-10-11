@@ -32,3 +32,9 @@ Upon intial landing of the webpage you all of the results available will be disp
 
 ## Summary
 
+In the sites current state the filters are case and space sensitive.  The site also requires the user to press enter or click in blank space to activate the filter.
+
+**Upcoming modifications:**
+
+* Dynamic live filter that will update the table as you type the result, this will remove the requirement to press "enter" or click in blank space
+* Additiona of drop downs removing the opportunity for user input errors
