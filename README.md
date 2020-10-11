@@ -11,7 +11,7 @@ Upon intial landing of the webpage you all of the results available will be disp
 * There are 5 optional filters allowing for a comprehensive drill down of UFO sightings
   * When entering the filter parameter of your choice you will need to enter the choice in the format that is prefilled (capitalization, spacing)
 
-![](/UFOs/static/images/UFO_Filters.png)
+![](static/images/UFO_Filters.png)
 
 **Example**
 
